@@ -45,12 +45,29 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\ArrayAndLoop.cs" />
+     <Compile Include="Assets\Scripts\ColourClick.cs" />
+     <Compile Include="Assets\Scripts\ExampleIfElseIf.cs" />
+     <Compile Include="Assets\Scripts\Exercise1.cs" />
+     <Compile Include="Assets\Scripts\Exercise2.cs" />
+     <Compile Include="Assets\Scripts\Exercise3.cs" />
+     <Compile Include="Assets\Scripts\Exercise4.cs" />
+     <Compile Include="Assets\Scripts\Exercise5.cs" />
+     <Compile Include="Assets\Scripts\JointRotator.cs" />
      <Compile Include="Assets\Scripts\LogMan.cs" />
+     <Compile Include="Assets\Scripts\MoveArms.cs" />
+     <Compile Include="Assets\Scripts\MoveCyllinder.cs" />
+ <Reference Include="UnityEngine.Advertisements">
+ <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/UnityEngine.Advertisements.dll</HintPath>
+ </Reference>
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.Networking">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.Analytics">
+ <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
  </Reference>
  <Reference Include="Mono.Cecil">
  <HintPath>C:/Program Files/Unity/Editor/Data/Managed/Mono.Cecil.dll</HintPath>
